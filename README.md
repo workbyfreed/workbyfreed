@@ -1,4 +1,4 @@
-- Hi, I’m @workbyfreed (Daniel)
+- Hi, I’m @workbyfreed
 - Languages; Python, JavaScript, php, html, css
 - Daily driver; Manjaro
 - I’m currently learning Data Analytics
