@@ -1,13 +1,11 @@
 - Hi, I’m @workbyfreed
-- Languages; Python, JavaScript, php, html, css
-- Daily driver; Manjaro
-- I’m currently learning Data Analytics
+- Languages: Python, php, JavaScript, html, css
+- Daily driver: Manjaro
 - I've been working within IT leading devteams as product manager/owner for 15 years and doing some, mostly frontend, stuff myself. 
-  Now looking into data mining, analytics and statistics to see what data can tell us.
-- Interest outside of IT; Coffee, Photography, Playing the Sax
+  Now looking into data engineering, data mining, analytics and statistics to see what data can tell us.
+- Interest outside of IT; Coffee, Photography, Playing the Sax (well, trying to).
 - https://danfreed.se
-
-Planning to fill my GutHub with some fun Data Analytics projects.<br/>
+- 
 See you around!
 
 <!---
