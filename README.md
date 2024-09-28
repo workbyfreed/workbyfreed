@@ -2,7 +2,7 @@
 - Languages: Python, php, JavaScript, html, css
 - Daily driver: Manjaro
 - I've been working within IT leading devteams as product manager/owner for 15 years and doing some, mostly frontend, stuff myself. 
-  Now looking into data engineering, data mining, analytics and statistics to see what data can tell us.
+- Now looking into data engineering, data mining, analytics and statistics to see what data can tell us.
 - Interest outside of IT; Coffee, Photography, Playing the Sax (well, trying to).
 - https://danfreed.se
 - 
